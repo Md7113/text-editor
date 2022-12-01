@@ -34,7 +34,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'text editor',
-        short_name: 'Contact',
+        short_name: 'text',
         description: 'just another text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
