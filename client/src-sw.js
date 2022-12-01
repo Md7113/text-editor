@@ -38,5 +38,5 @@ new StaleWhileRevalidate({
 }));
 
 offlineFallback({
-  pageFallback: '/offline.html',
+  pageFallback: '/index.html',
 });
